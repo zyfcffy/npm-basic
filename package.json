@@ -1,0 +1,14 @@
+{
+  "name": "npm-basic-intro",
+  "version": "1.0.0",
+  "description": "npm basic introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "yan.yu",
+  "license": "ISC"
+}
